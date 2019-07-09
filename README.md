@@ -10,8 +10,9 @@ steps :
     
 2. Setting up new project type : create-react-app projectName-project
 3. Go into the project directory : cd projectName
-4. To start your development server : npm start
-5. To end the development server : npm run eject   or ctrl+z
+4. Open src folder and replace app.js and app.css file with the downloaded file
+5. To start your development server : npm start
+6. To end the development server : npm run eject   or ctrl+z
 
 
 thanks
